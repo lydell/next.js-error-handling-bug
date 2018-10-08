@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "7.0.2-canary.8",
+    "react": "16.5.2",
+    "react-dom": "16.5.2"
+  }
+}
